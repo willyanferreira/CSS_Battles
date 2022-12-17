@@ -1,4 +1,4 @@
-# Objetivo: ## Resolver os desafios do CSSBattle
+### Objetivo: Exibir minhas resoluções dos desafios do CSSBattle
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/willyanferreira/CSS_Battles" />
   
